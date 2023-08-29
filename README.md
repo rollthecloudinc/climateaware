@@ -21,7 +21,9 @@ Above all, ClimateAware.eco is built with a focus on sustainability. We've optim
 We need your help to bring ClimateAware.eco to life. We aim to raise $500,000 to cover the initial development, marketing, and operational expenses for the first two years. As a 501(c)3 organization, we are reliant on the generosity of donors like you.
 
 You can contribute by making a donation via our GoFundMe campaign or by contributing your time and expertise to the development of ClimateAware.eco.
-Our Commitment
+
+
+## Our Commitment
  
 We pledge transparency and will provide regular updates on our progress. We are committed to ensuring ClimateAware.eco is accessible to everyone, regardless of their financial situation or technical skills.
 
